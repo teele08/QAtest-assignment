@@ -1,0 +1,6 @@
+tutorialsolution\pages\WindowsPage.class
+browser\BrowserGetter.class
+tutorialsolution\pages\WebElementInteractionPage.class
+tutorialsolution\pages\UserPromptsPage.class
+waiter\Waiter.class
+tutorialsolution\pages\BasicPage.class
